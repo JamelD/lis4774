@@ -2,7 +2,7 @@
 
 ## Jamel Douglas
 
-### Lab 2
+### Lab 3 John the Ripper & Password Evaluation
 
 #### Objectives 
 Please work on Projects 1 & 6 (pp. 94-98 and 109-110) of Chapter 06 and capture screenshots. 

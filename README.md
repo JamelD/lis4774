@@ -24,7 +24,7 @@
     - Please work on Projects 3, 5, 7 9-10 (pp. 61-62, 64-65, 66-67 & 69-72) of Chapter 03 and capture screenshots. 
 
 7. [Lab 5 README.md](L5/README.md "My Lab 5 README.md file")
-    - TBA
+    - Please work on Projects 1 (pp. 84-86) of Chapter 05 and capture screenshots. For the second project, The url will redirect to https://www.refog.com/.Please make sure to use the 15 days trial which enables you to navigate through. 
 
 8. [Lab 6 README.md](L6/README.md "My Lab 6 README.md file")
     - TBA

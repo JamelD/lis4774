@@ -36,4 +36,4 @@
     - Please work on Projects 1, 2 & 4 (pp. 151-157 & 159-162) of Chapter 10 and capture screenshots.
 
 11. [Lab 9 README.md](L9/README.md "My Lab 9 README.md file")
-    - TBA
+    - Please work on Project 6 (pp. 451–453) of Chapter 22 and capture screenshots. 

@@ -9,7 +9,7 @@
     - There are three (3) takes for the term project presentation, and all three takes are graded as an in-class activity. The first take is the dress rehearsal (on 11/23). Every team will incorporate my comments into the subsequent presentations. Each member from each team is expected to present something on the term project - both parts A & B. The challenge is that you must deliver a total of 10 slides in just 10 minutes. While the sequence of which team goes first, second etc will be randomized and announced in class. Class participation and active listening will be important - asking intelligent questions will benefit you. 
 
 2. [Term Paper README.md](Term/README.md "My Term Paper README.md file")
-    - TBA
+    - You are required to produce a term project, building upon and complementing the material covered in class. Your term project is the composite results of your term project parts A and B but with in-depth study and discussion. The midterm paper describes your Part A, and your final paper describes both Parts A+B. You will be working with your group members as part of a team. Teams are formed during the first day of the class, in plenty of time for you to meet, plan, and work with other members of your team. Some class time may be set aside for team meetings. Projects must culminate with both a group presentation for the class, and the submission of a group final paper. 
 
 3. [Lab 1 README.md](L1/README.md "My Lab 1 README.md file")
     - Please work on Projects 2-6 (pp. 6-17) of Chapter 01 and capture screenshots.

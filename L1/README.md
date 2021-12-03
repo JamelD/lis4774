@@ -2,7 +2,7 @@
 
 ## Jamel Douglas
 
-### Lab 1
+### Lab 1 - DOS Commands
 
 #### Objectives 
 Please work on Projects 2-6 (pp. 6-17) of Chapter 01 and capture screenshots. 

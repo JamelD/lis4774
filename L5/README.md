@@ -5,9 +5,7 @@
 ### Lab 5 - Keylogger and Spyware
 
 #### Objectives 
-Please work on Projects 1 (pp. 84-86) of Chapter 05 and capture screenshots. 
-For the second project, The url will redirect to https://www.refog.com/. 
-Please make sure to use the 15 days trial which enables you to navigate through.  
+Please work on Projects 1 (pp. 84-86) of Chapter 05 and capture screenshots. For the second project, The url will redirect to https://www.refog.com/. Please make sure to use the 15 days trial which enables you to navigate through.  
 
 #### Tasks
 - All screenshots must include the assigned VM# information as a proof of your work. 

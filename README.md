@@ -6,7 +6,7 @@
 *Course Work Links:*
 
 1. [Presentation README.md](Presentation/README.md "My Presentation README.md file")
-    - TBA
+    - There are three (3) takes for the term project presentation, and all three takes are graded as an in-class activity. The first take is the dress rehearsal (on 11/23). Every team will incorporate my comments into the subsequent presentations. Each member from each team is expected to present something on the term project - both parts A & B. The challenge is that you must deliver a total of 10 slides in just 10 minutes. While the sequence of which team goes first, second etc will be randomized and announced in class. Class participation and active listening will be important - asking intelligent questions will benefit you. 
 
 2. [Term Paper README.md](Term/README.md "My Term Paper README.md file")
     - TBA

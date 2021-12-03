@@ -21,7 +21,7 @@
     - Please work on Projects 1 & 6 (pp. 94-98 and 109-110) of Chapter 06 and capture screenshots.
 
 6. [Lab 4 README.md](L4/README.md "My Lab 4 README.md file")
-    - TBA
+    - Please work on Projects 3, 5, 7 9-10 (pp. 61-62, 64-65, 66-67 & 69-72) of Chapter 03 and capture screenshots. 
 
 7. [Lab 5 README.md](L5/README.md "My Lab 5 README.md file")
     - TBA
